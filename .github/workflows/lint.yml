@@ -6,7 +6,7 @@ name: Lint & Code Quality
 # unused imports, missing properties, signature mismatches).
 on:
   push:
-    branches: [main, cosmin]
+    branches: [main, cosmin, alexmldvn]
   pull_request:
     branches: [main]
 

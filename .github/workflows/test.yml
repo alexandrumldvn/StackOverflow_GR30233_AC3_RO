@@ -4,7 +4,7 @@ name: Tests
 # Acopera: testele unitare backend (Maven + JUnit) si testele Cypress frontend (component + E2E).
 on:
   push:
-    branches: [main, cosmin]
+    branches: [main, cosmin, alexmldvn]
   pull_request:
     branches: [main]
 
